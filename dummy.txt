@@ -1,7 +1,1 @@
-hello therer
-this is new app
-ssss
-dummyyy
-test
-hyyyy
-good
+Hello Server
